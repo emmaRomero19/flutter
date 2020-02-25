@@ -24,8 +24,7 @@
         "Fire",
         "Ice",
         "Poison",
-        "Fairy",
-        "Fighting"
+        "Fairy"
       ],
       "prev_evolution": [{
         "num": "273",
