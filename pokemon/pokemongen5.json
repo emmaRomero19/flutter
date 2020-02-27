@@ -1567,7 +1567,7 @@
             "spawn_chance": 0.15,
             "avg_spawns": 15,
             "spawn_time": "11:30",
-            "multipliers": "null",
+            "multipliers": [0],
             "weaknesses": [
               "Fire"
             ]
