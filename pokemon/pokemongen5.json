@@ -2213,8 +2213,8 @@
                 "num": "575",
                 "name": "Gothorita"
             }]
-            }, {
-                "id": 577,
+        },{
+            "id": 577,
             "num": "577",
             "name": "Solosis",
             "img": "https://www.serebii.net/pokemon/art/577.png",
@@ -2234,7 +2234,7 @@
                 "Ice",
                 "Flying",
                 "Psychic"
-                ],
+            ],
             "next_evolution": [{
                 "num": "578",
                 "name": "Duosion"
@@ -2242,7 +2242,7 @@
                 "num": "579",
                 "name": "Reiniclus"
             }]
-            }, {
+        },{
             "id": 578,
             "num": "578",
             "name": "Duosion",
@@ -2267,11 +2267,11 @@
             "prev_evolution": [{
                 "num": "577",
                 "name": "Solosis"
-            }, {
+                }, {
                 "num": "579",
                 "name": "Reiniclus"
             }]
-            }, {
+        },{
             "id": 579,
             "num": "579",
             "name": "Reiniclus",
@@ -2296,11 +2296,11 @@
             "prev_evolution": [{
                 "num": "577",
                 "name": "Solosis"
-            }, {
+                },{
                 "num": "578",
                 "name": "Duosion"
             }]
-            },{
+        },{
             "id": 580,
             "num": "580",
             "name": "Ducklett",
@@ -2328,7 +2328,7 @@
                 "num": "581",
                 "name": "Swanna"
             }]
-                }, {
+        },{
             "id": 581,
             "num": "581",
             "name": "Swanna",
@@ -2355,8 +2355,8 @@
             "prev_evolution": [{
                 "num": "582",
                 "name": "Vanillite"
-            }, {
-            }, {
+            }]
+        },{
             "id": 582,
             "num": "582",
             "name": "Vanillite",
@@ -2382,7 +2382,7 @@
             "next_evolution": [{
                 "num": "583",
                 "name": "Vanillish"
-            }, {
+                }, {
                 "num": "584",
                 "name": "Vanilluxe"
             }]
