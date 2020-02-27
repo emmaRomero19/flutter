@@ -182,37 +182,6 @@
               "num": "500",
               "name": "Emboar"
             }]
-        },{
-            "id": 500,
-            "num": "500",
-            "name": "Emboar",
-            "img": "http://www.serebii.net/pokemongo/pokemon/500.png",
-            "type": [
-              "Fire",
-              "Fight"
-            ],
-            "height": "1.6 m",
-            "weight": "150 kg",
-            "candy": "Squirtle Candy",
-            "candy_count": 25,
-            "egg": "3 km",
-            "spawn_chance": 0.20,
-            "avg_spawns": 20,
-            "spawn_time": "11:25",
-            "multipliers": [6],
-            "weaknesses": [
-              "Water",  
-              "Ground",
-              "Flying",
-              "Psychic"
-            ],
-            "next_evolution": [{
-              "num": "498",
-              "name": "Tepig"
-              },{
-              "num": "499",
-              "name": "Pignite"
-            }]
         }
     ]
 }
