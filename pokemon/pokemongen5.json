@@ -1820,7 +1820,241 @@
             "weaknesses": [
               "Rock"
             ]
-        }
+        },{
+            "id": 561,
+            "num": "561",
+            "name": "Siglyp",
+            "img": "https://www.serebii.net/pokemon/art/561.png",
+            "type": [
+              "Psychc",
+              "Flying"
+            ],
+            "height": "1.4 m",
+            "weight": "14.0 kg",
+            "candy": "Siglyp Candy",
+            "candy_count": 0,
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.44,
+            "avg_spawns": 44,
+            "spawn_time": "02:30",
+            "multipliers": [
+              3.01,
+              3.41
+            ],
+            "weaknesses": [
+              "Electric"
+            ]
+        },{
+            "id": 562,
+            "num": "562",
+            "name": "Yamask",
+            "img": "https://www.serebii.net/pokemon/art/562.png",
+            "type": [
+              "Ghost"
+            ],
+            "height": "0.5 m",
+            "weight": "1.5 kg",
+            "candy": "Yamask Candy",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.30,
+            "avg_spawns": 30,
+            "spawn_time": "04:50",
+            "multipliers": [11],
+            "weaknesses": [
+              "Dark"
+            ],
+            "nex_evolution": [{
+              "num": "563",
+              "name": "Cofagrugus"
+            }]
+        },{
+            "id": 563,
+            "num": "563",
+            "name": "Cofagrigus",
+            "img": "https://www.serebii.net/pokemon/art/563.png",
+            "type": [
+              "Ghost"
+            ],
+            "height": "1.7 m",
+            "weight": "76.5 kg",
+            "candy": "Cofagrigus Candy",
+            "candy_count": 50,
+            "egg": "2 km",
+            "spawn_chance": 15.98,
+            "avg_spawns": 1.598,
+            "spawn_time": "01:34",
+            "multipliers": [
+              1.71,
+              1.92
+            ]
+        },{
+            "id": 564,
+            "num": "564",
+            "name": "Tirtouga",
+            "img": "https://www.serebii.net/pokemon/art/564.png",
+            "type": [
+              "Water",
+              "Rock"
+            ],
+            "height": "0.7 m",
+            "weight": "16.5 kg",
+            "candy": "Pidgey Candy",
+            "candy_count": 50,
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.10,
+            "avg_spawns": 10,
+            "spawn_time": "01:30",
+            "multipliers": [1.79],
+            "weaknesses": [
+              "Grass"
+            ],
+            "nex_evolution": [{
+              "num": "565",
+              "name": "Carracosta"
+            }]
+        },{
+            "id": 565,
+            "num": "565",
+            "name": "Carracosta",
+            "img": "https://www.serebii.net/pokemon/art/565.png",
+            "type": [
+                "Water",
+                "Rock"
+            ],
+            "height": "1.2 m",
+            "weight": "81 kg",
+            "candy": "Carracosta Candy",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.13,
+            "avg_spawns": 13,
+            "spawn_time": "01:50",
+            "multipliers": [11],
+            "weaknesses": [
+              "Grass"
+            ]
+        },{
+            "id": 566,
+            "num": "566",
+            "name": "Archen",
+            "img": "https://www.serebii.net/pokemon/art/566.png",
+            "type": [
+              "rock",
+              "Fliying"
+            ],
+            "height": "0.5 m",
+            "weight": "9.5 kg",
+            "candy": "Archen Candy",
+            "candy_count": 50,
+            "egg": "2 km",
+            "spawn_chance": 0.10,
+            "avg_spawns": 10,
+            "spawn_time": "01:55",
+            "multipliers": [
+              2.55,
+              2.73
+            ],
+            "weaknesses": [
+              "Fighting"
+            ],
+            "prev_evolution": [{
+              "num": "567",
+              "name": "Archeops"
+            }]
+        },{
+            "id": 567,
+            "num": "567",
+            "name": "Archeops",
+            "img": "https://www.serebii.net/pokemon/art/567.png",
+            "type": [
+              "Rock",
+              "Fliying"
+              
+            ],
+            "height": "1.4 m",
+            "weight": "32 kg",
+            "candy": "Archeops Candy",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.10,
+            "avg_spawns": 10,
+            "spawn_time": "01:56",
+            "multipliers": [11],
+            "weaknesses": [
+              "Fighting"
+            ]
+        },{
+            "id": 568,
+            "num": "568",
+            "name": "Trubbish",
+            "img": "https://www.serebii.net/pokemon/art/568.png",
+            "type": [
+              "Poison"
+            ],
+            "height": "0.6 m",
+            "weight": "31 kg",
+            "candy": "Spearow Candy",
+            "candy_count": 50,
+            "egg": "2 km",
+            "spawn_chance": 0.30,
+            "avg_spawns": 30,
+            "spawn_time": "12:25",
+            "multipliers": [
+              2.66,
+              2.68
+            ],
+            "weaknesses": [
+                "Pshich"
+            ],
+              "next_evolution": [{
+                "num": "569",
+                "name": "Garbodor"
+            }]
+        },{
+            "id": 569,
+            "num": "569",
+            "name": "Garbodor",
+            "img": "https://www.serebii.net/pokemon/art/569.png",
+            "type": [
+              "Poison"
+            ],
+            "height": "1.19 m",
+            "weight": "38.0 kg",
+            "candy": "Spearow Candy",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.15,
+            "avg_spawns": 15,
+            "spawn_time": "01:11",
+            "multipliers": [11],
+            "weaknesses": [
+                "Pshich"
+            ]
+          }, {
+            "id": 570,
+            "num": "570",
+            "name": "Zorua",
+            "img": "https://www.serebii.net/pokemon/art/570.png",
+            "type": [
+              "Dark"
+            ],
+            "height": "0.7 m",
+            "weight": "12.5 kg",
+            "candy": "Zorua Candy",
+            "candy_count": 50,
+            "egg": "not in eggs",
+            "spawn_chance": 0.30,
+            "avg_spawns": 30,
+            "spawn_time": "12:20",
+            "multipliers": [
+              2.21,
+              2.27
+            ],
+            "weaknesses": [
+              "Rock"
+            ],
+            "next_evolution": [{
+              "num": "571",
+              "name": "Zoroark"
+            }]
+          }
     ]
 }
 
