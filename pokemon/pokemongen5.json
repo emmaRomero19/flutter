@@ -2100,6 +2100,90 @@
               "num": "573",
               "name": "Cinccino"
             }]
+        },{
+            "id": 573,
+            "num": "573",
+            "name": "Cinccino",
+            "img": "https://www.serebii.net/pokemon/art/573.png",
+            "type": [
+              "Normal"
+            ],
+            "height": "0.79 m",
+            "weight": "30.0 kg",
+            "candy": "Cinccino Candy",
+            "egg": "5 kg",
+            "spawn_chance": 0.30,
+            "avg_spawns": 30,
+            "spawn_time": "23:58",
+            "multipliers": [10],
+            "weaknesses": [
+              "Rock"
+            ]
+        },{
+            "id": 574,
+            "num": "574",
+            "name": "Gothita",
+            "img": "https://www.serebii.net/pokemon/art/574.png",
+            "PSYCHC": [
+                "Grass",
+                "Poison"
+            ],
+            "height": "0.4 m",
+            "weight": "5.8 kg",
+            "candy": "Bulbasaur Candy",
+            "candy_count": 25,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [1.58],
+            "weaknesses": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ],
+            "next_evolution": [{
+                "num": "575",
+                "name": "Gothorita"
+                },{
+                "num": "576",
+                "name": "Gothitelle"
+            }]
+        },{
+            "id": 575,
+            "num": "575",
+            "name": "Gothorita",
+            "img": "https://www.serebii.net/pokemon/art/575.png",
+            "type": [
+                "PSYCHC"
+            ],
+            "height": "0.7 m",
+            "weight": "18 kg",
+            "candy": "Gothorita Candy",
+            "candy_count": 100,
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.042,
+            "avg_spawns": 4.2,
+            "spawn_time": "07:00",
+            "multipliers": [
+                1.2,
+                1.6
+            ],
+            "weaknesses": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ],
+            "prev_evolution": [{
+                "num": "574",
+                "name": "Gothita"
+            }],
+            "next_evolution": [{
+                "num": "576",
+                "name": "Gothitelle"
+            }]
         }
     ]
 }
