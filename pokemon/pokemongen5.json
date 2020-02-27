@@ -40,7 +40,7 @@
             "egg": "3 km",
             "spawn_chance": 0.20,
             "avg_spawns": 20,
-            "spawn_time": "",
+            "spawn_time": "04:00",
             "multipliers": [1.2],
             "weaknesses": [
               "Fire",
@@ -104,7 +104,7 @@
             "egg": "3 km",
             "spawn_chance": 0.20,
             "avg_spawns": 20,
-            "spawn_time": "",
+            "spawn_time": "04:00",
             "multipliers": [2],
             "weaknesses": [
               "Fire",
