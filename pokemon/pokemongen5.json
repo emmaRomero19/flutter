@@ -1867,7 +1867,7 @@
               "num": "563",
               "name": "Cofagrugus"
             }]
-        }, {
+        },{
             "id": 563,
             "num": "563",
             "name": "Cofagrigus",
@@ -1886,7 +1886,10 @@
             "multipliers": [
               1.71,
               1.92
-            ]
+            ],
+            "weaknesses": [
+                "Grass"
+            ] 
         },{
             "id": 564,
             "num": "564",
