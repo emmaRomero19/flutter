@@ -1571,26 +1571,6 @@
             "weaknesses": [
               "Fire"
             ]
-        },{
-            "id": 550,
-            "num": "550",
-            "name": "Basculin",
-            "img": "https://www.serebii.net/pokemon/art/550.png",
-            "type": [
-              "Water"
-            ],
-            "height": "1 m",
-            "weight": "18 kg",
-            "candy": "Basculin Candy",
-            "egg": "Not in Eggs",
-            "spawn_chance": 0.20,
-            "avg_spawns": 20,
-            "spawn_time": "11:30",
-            "multipliers": [11],
-            "weaknesses": [
-              "Electric",
-              "Grass"
-            ]
         }
     ]
 }
