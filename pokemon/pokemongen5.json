@@ -2411,13 +2411,12 @@
                 "Ice",
                 "Flying",
                 "Psychic"
-            ]
-            }],
+            ],
             "next_evolution": [{
                 "num": "584",
                 "name": "Vanilluxe"
             }]
-            }, {
+        }, {
             "id": 584,
             "num": "584",
             "name": "Vanilluxe",
