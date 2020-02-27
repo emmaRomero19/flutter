@@ -1887,7 +1887,7 @@
               1.71,
               1.92
             ]
-          }, {
+        },{
             "id": 564,
             "num": "564",
             "name": "Tirtouga",
@@ -1908,7 +1908,7 @@
             "weaknesses": [
               "Grass"
             ],
-            "nex_evolution": [{
+            "next_evolution": [{
               "num": "565",
               "name": "Carracosta"
             }]
@@ -1932,7 +1932,7 @@
             "weaknesses": [
               "Grass"
             ]
-          }, {
+        },{
             "id": 566,
             "num": "566",
             "name": "Archen",
@@ -1960,7 +1960,7 @@
               "num": "567",
               "name": "Archeops"
             }]
-          }, {
+        },{
             "id": 567,
             "num": "567",
             "name": "Archeops",
@@ -1981,7 +1981,7 @@
             "weaknesses": [
               "Fighting"
             ]
-          }, {
+        },{
             "id": 568,
             "num": "568",
             "name": "Trubbish",
@@ -2004,11 +2004,11 @@
             "weaknesses": [
                 "Pshich"
             ],
-              "next_evolution": [{
+            "next_evolution": [{
                 "num": "569",
                 "name": "Garbodor"
             }]
-          }, {
+        },{
             "id": 569,
             "num": "569",
             "name": "Garbodor",
@@ -2027,7 +2027,7 @@
             "weaknesses": [
                 "Pshich"
             ]
-          }, {
+        },{
             "id": 570,
             "num": "570",
             "name": "Zorua",
