@@ -2620,7 +2620,7 @@
                 "name": "Foongus"
             }]
             },{
-            "id":592,
+            "id": 592,
             "num": "592",
             "name": "Frillish",
             "img": "https://www.serebii.net/pokemon/art/592.png",
@@ -3039,7 +3039,445 @@
                     "num": "606",
                     "name": "Beheeyem"
                 }]
-                }
+                }, {
+                    "id": 606,
+                    "num": "606",
+                    "name": "Beheeyem",
+                    "img": " https://www.serebii.net/blackwhite/pokemon/606.png",
+                    "type": [
+                        "PSYCHC"
+                    ],
+                    "height": "1 m",
+                    "weight": "34.5 kg",
+                    "candy": "Beheeyem Candy",
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0.0031,
+                    "avg_spawns": 0.31,
+                    "spawn_time": "13:34",
+                    "multipliers": [11],
+                    "weaknesses": [
+                        "Water",
+                        "Electric",
+                        "Rock"
+                    ],
+                    "prev_evolution": [{
+                        "num": "604",
+                        "name": "Eelektross"
+                    }, {
+                        "num": "605",
+                        "name": "Elgyem"
+                    }]
+                    }, {
+                    "id": 607,
+                    "num": "607",
+                    "name": "Litwick",
+                    "img": "https://www.serebii.net/blackwhite/pokemon/607.png",
+                    "type": [
+                        "GHOST" , "FIRE"
+                    ],
+                    "height": "0.3 m",
+                    "weight": "3.1 kg",
+                    "candy": "Litwick Candy",
+                    "candy_count": 25,
+                    "egg": "2 km",
+                    "spawn_chance": 0.58,
+                    "avg_spawns": 58,
+                    "spawn_time": "04:25",
+                    "multipliers": [2.1],
+                    "weaknesses": [
+                        "Electric",
+                        "Grass"
+                    ],
+                    "next_evolution": [{
+                        "num": "608",
+                        "name": "Lampent"
+                    }, {
+                        "num": "609",
+                        "name": "Chandelure"
+                    }]
+                    }, {
+                    "id": 608,
+                    "num": "608",
+                    "name": "Lampent",
+                    "img": "https://www.serebii.net/blackwhite/pokemon/608.png",
+                    "type": [
+                        "GHOST" , "FIRE"
+                    ],
+                    "height": "0.6 m",
+                    "weight": "0.6 kg",
+                    "candy": "Lampent Candy",
+                    "candy_count": 100,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0.034,
+                    "avg_spawns": 3.4,
+                    "spawn_time": "07:02",
+                    "multipliers": [1.4],
+                    "weaknesses": [
+                        "Electric",
+                        "Grass"
+                    ],
+                    "prev_evolution": [{
+                        "num": "607",
+                        "name": "Litwick"
+                    }],
+                    "next_evolution": [{
+                        "num": "609",
+                        "name": "Chandelure"
+                    }]
+                    }, {
+                    "id": 609,
+                    "num": "609",
+                    "name": "Chandelure",
+                    "img": "https://www.serebii.net/Shiny/BW/609.png",
+                    "type": [
+                        "GHOST","FIRE"
+                    ],
+                    "height": "1 m",
+                    "weight": "34.3kg",
+                    "candy": "Chandelure Candy",
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0.0067,
+                    "avg_spawns": 0.67,
+                    "spawn_time": "00:06",
+                    "multipliers": [10],
+                    "weaknesses": [
+                        "Electric",
+                        "Grass"
+                    ],
+                    "prev_evolution": [{
+                        "num": "607",
+                        "name": "Litwick"
+                    }, {
+                        "num": "608",
+                        "name": "Lampent"
+                    }]
+                    }, {
+                    "id": 610,
+                    "num": "610",
+                    "name": "Axew",
+                    "img": "https://www.serebii.net/Shiny/BW/610.png",
+                    "type": [
+                        "DRAGON"
+                    ],
+                    "height": "0.6 m",
+                    "weight": "18 kg",
+                    "candy": "Axew Candy",
+                    "candy_count": 12,
+                    "egg": "2 km",
+                    "spawn_chance": 3.032,
+                    "avg_spawns": 303.2,
+                    "spawn_time": "16:35",
+                    "multipliers": [1.05],
+                    "weaknesses": [
+                        "Fire",
+                        "Flying",
+                        "Rock"
+                    ],
+                    "next_evolution": [{
+                        "num": "611",
+                        "name": "Fraxure"
+                    }, {
+                        "num": "612",
+                        "name": "Haxorus"
+                    }]
+                    }, {
+                    "id": 611,
+                    "num": "611",
+                    "name": "Fraxure",
+                    "img": "https://www.serebii.net/Shiny/BW/611.png",
+                    "type": [
+                        "DRAGON"
+                    ],
+                    "height": "1 m",
+                    "weight": "36 kg",
+                    "candy": "Fraxure Candy",
+                    "candy_count": 50,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0.187,
+                    "avg_spawns": 18.7,
+                    "spawn_time": "02:11",
+                    "multipliers": [
+                        3.55,
+                        3.79
+                    ],
+                    "weaknesses": [
+                        "Fire",
+                        "Flying",
+                        "Rock"
+                    ],
+                    "prev_evolution": [{
+                        "num": "610",
+                        "name": "Axew"
+                    }],
+                    "next_evolution": [{
+                        "num": "612",
+                        "name": "Haxorus"
+                    }]
+                    }, {
+                    "id": 612,
+                    "num": "612",
+                    "name": " Haxorus",
+                    "img": "https://www.serebii.net/Shiny/BW/612.png",
+                    "type": [
+                        "DRAGON"
+                    ],
+                    "height": "1.8 m",
+                    "weight": "105.5kg",
+                    "candy": "Haxorus Candy",
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0.022,
+                    "avg_spawns": 2.2,
+                    "spawn_time": "05:23",
+                    "multipliers": [12],
+                    "weaknesses": [
+                        "Fire",
+                        "Electric",
+                        "Ice",
+                        "Flying",
+                        "Rock"
+                    ],
+                    "prev_evolution": [{
+                        "num": "610",
+                        "name": "Axew"
+                    }, {
+                        "num": "611",
+                        "name": "Fraxure"
+                    }]
+                    }, {
+                    "id": 613,
+                    "num": "613",
+                    "name": "Cubchoo",
+                    "img": "https://www.serebii.net/Shiny/BW/613.png",
+                    "type": [
+                        "ICE"
+                    ],
+                    "height": "0.5 m",
+                    "weight": "8.5 kg",
+                    "candy": "Cubchoo Candy",
+                    "candy_count": 12,
+                    "egg": "2 km",
+                    "spawn_chance": 7.12,
+                    "avg_spawns": 712,
+                    "spawn_time": "02:21",
+                    "multipliers": [
+                        1.01,
+                        1.09
+                    ],
+                    "weaknesses": [
+                        "Fire",
+                        "Flying",
+                        "Psychic",
+                        "Rock"
+                    ],
+                    "next_evolution": [{
+                        "num": "614",
+                        "name": "Beartic"
+                    }, {
+                        "num": "615",
+                        "name": "Cryogonal"
+                    }]
+                    }, {
+                    "id": 614,
+                    "num": "614",
+                    "name": "Beartic",
+                    "img": "https://www.serebii.net/Shiny/BW/614.png",
+                    "type": [
+                        "ice"
+                    ],
+                    "height": "2.6 m",
+                    "weight": "260 kg",
+                    "candy": "Beartic Candy",
+                    "candy_count": 50,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0.44,
+                    "avg_spawns": 44,
+                    "spawn_time": "02:30",
+                    "multipliers": [
+                        3.01,
+                        3.41
+                    ],
+                    "weaknesses": [
+                        "Fire",
+                        "Flying",
+                        "Psychic",
+                        "Rock"
+                    ],
+                    "prev_evolution": [{
+                        "num": "613",
+                        "name": "Cubchoo"
+                    }],
+                    "next_evolution": [{
+                        "num": "615",
+                        "name": "Cryogonal"
+                    }]
+                    }, {
+                    "id": 615,
+                    "num": "615",
+                    "name": " Cryogonal",
+                    "img": "https://www.serebii.net/Shiny/BW/615.png",
+                    "type": [
+                        "ice"
+                    ],
+                    "height": "1.1 m",
+                    "weight": "148 kg",
+                    "candy": "Cryogonal Candy",
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0.051,
+                    "avg_spawns": 5.1,
+                    "spawn_time": "04:50",
+                    "multipliers": [12],
+                    "weaknesses": [
+                        "Fire",
+                        "Flying",
+                        "Psychic",
+                        "Rock"
+                    ],
+                    "prev_evolution": [{
+                        "num": "613",
+                        "name": "Cubchoo"
+                    }, {
+                        "num": "614",
+                        "name": "Beartic"
+                    }]
+                    }, {
+                    "id": 616,
+                    "num": "616",
+                    "name": "Shelmet",
+                    "img": "https://www.serebii.net/Shiny/BW/616.png",
+                    "type": [
+                        "Bug"
+                    ],
+                    "height": "0.4 m",
+                    "weight": "7.7 kg",
+                    "candy": "Shelmet Candy",
+                    "candy_count": 12,
+                    "egg": "2 km",
+                    "spawn_chance": 15.98,
+                    "avg_spawns": 1.598,
+                    "spawn_time": "01:34",
+                    "multipliers": [
+                        1.71,
+                        1.92
+                    ],
+                    "weaknesses": [
+                        "Electric",
+                        "Rock"
+                    ],
+                    "next_evolution": [{
+                        "num": "617",
+                        "name": "Accelgor"
+                    }, {
+                        "num": "618",
+                        "name": "Stunfisk"
+                    }]
+                    }, {
+                    "id": 617,
+                    "num": "617",
+                    "name": " Accelgor",
+                    "img": "https://www.serebii.net/Shiny/BW/617.png",
+                    "type": [
+                        "Bug"
+                    ],
+                    "height": "0.8 m",
+                    "weight": "25.3kg",
+                    "candy": "Accelgor Candy",
+                    "candy_count": 50,
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 1.02,
+                    "avg_spawns": 102,
+                    "spawn_time": "01:30",
+                    "multipliers": [1.79],
+                    "weaknesses": [
+                        "Electric",
+                        "Rock"
+                    ],
+                    "prev_evolution": [{
+                        "num": "616",
+                        "name": "Shelmet"
+                    }],
+                    "next_evolution": [{
+                        "num": "618",
+                        "name": "Stunfisk"
+                    }]
+                    }, {
+                    "id": 618,
+                    "num": "618",
+                    "name": "Stunfisk",
+                    "img": "https://www.serebii.net/Shiny/BW/618.png",
+                    "type": [
+                        "Ground",
+                        "Electr"
+                    ],
+                    "height": "0.7 m",
+                    "weight": "11 kg",
+                    "candy": "Stunfisk Candy",
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0.13,
+                    "avg_spawns": 13,
+                    "spawn_time": "01:50",
+                    "multipliers": [10],
+                    "weaknesses": [
+                        "Electric",
+                        "Rock"
+                    ],
+                    "prev_evolution": [{
+                        "num": "616",
+                        "name": "Shelmet"
+                    }, {
+                        "num": "617",
+                        "name": "Accelgor"
+                    }]
+                    }, {
+                    "id": 619,
+                    "num": "619",
+                    "name": "Mienfoo",
+                    "img": "https://www.serebii.net/Shiny/BW/619.png",
+                    "type": [
+                        "Fight"
+                    ],
+                    "height": "0.9 m",
+                    "weight": "20 kg",
+                    "candy": "Mienfoo Candy",
+                    "candy_count": 25,
+                    "egg": "2 km",
+                    "spawn_chance": 13.05,
+                    "avg_spawns": 1.305,
+                    "spawn_time": "01:55",
+                    "multipliers": [
+                        2.55,
+                        2.73
+                    ],
+                    "weaknesses": [
+                        "Fighting"
+                    ],
+                    "next_evolution": [{
+                        "num": "620",
+                        "name": "Mienshao"
+                    }]
+                    }, {
+                    "id": 620,
+                    "num": "620",
+                    "name": "Mienshao",
+                    "img": "https://www.serebii.net/Shiny/BW/620.png",
+                    "type": [
+                        "Fight"
+                    ],
+                    "height": "1.4 m",
+                    "weight": "35.5 kg",
+                    "candy": "Mienshao Candy",
+                    "egg": "Not in Eggs",
+                    "spawn_chance": 0.41,
+                    "avg_spawns": 41,
+                    "spawn_time": "01:56",
+                    "multipliers": [11],
+                    "weaknesses": [
+                        "Fighting"
+                    ],
+                    "prev_evolution": [{
+                        "num": "619",
+                        "name": "Mienfoo"
+                    }]
+                    }
     ]
 }
 
