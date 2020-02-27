@@ -2386,7 +2386,302 @@
                 "num": "584",
                 "name": "Vanilluxe"
             }]
-        }
+        }, {
+            "id": 583,
+            "num": "583",
+            "name": "Vanillish",
+            "img": "https://www.serebii.net/pokemon/art/583.png",
+            "type": [
+                "Ice"
+            ],
+            "height": "1.1 m",
+            "weight": "41 kg",
+            "candy": "Vanillish Candy",
+            "candy_count": 100,
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.042,
+            "avg_spawns": 4.2,
+            "spawn_time": "07:00",
+            "multipliers": [
+                1.2,
+                1.6
+            ],
+            "weaknesses": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ]
+            }],
+            "next_evolution": [{
+                "num": "584",
+                "name": "Vanilluxe"
+            }]
+            }, {
+            "id": 584,
+            "num": "584",
+            "name": "Vanilluxe",
+            "img": "https://www.serebii.net/pokemon/art/584.png",
+            "type": [
+                "Ice"
+            ],
+            "height": "1.3 m",
+            "weight": "57.5 kg",
+            "candy": "Vanilluxe Candy",
+            "candy_count": 100,
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.042,
+            "avg_spawns": 4.2,
+            "spawn_time": "07:00",
+            "multipliers": [
+                1.2,
+                1.6
+            ],
+            "weaknesses": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ],
+            "prev_evolution": [{
+                "num": "582",
+                "name": "Vanillite"
+            }],
+            "next_evolution": [{
+                "num": "583",
+                "name": "Vanillish"
+            }]
+            }, {
+            "id": 585,
+            "num": "585",
+            "name": "Deerling",
+            "img": "https://www.serebii.net/pokemon/art/585.png",
+            "type": [
+                "Normal",
+                "Grass"
+            ],
+            "height": "0.6 m",
+            "weight": "19.5 kg",
+            "candy": "Deerling Candy",
+            "candy_count": 25,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [1.58],
+            "weaknesses": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ],
+            "next_evolution": [{
+                "num": "586",
+                "name": "Sawsbuck"
+            }]
+            }, {
+            "id": 586,
+            "num": "586",
+            "name": "Sawsbuck",
+            "img": "https://www.serebii.net/pokemon/art/586.png",
+            "type": [
+                "Normal",
+                "Grass"
+            ],
+            "height": "1.9 m",
+            "weight": "92.5 kg",
+            "candy": "Sawsbuck Candy",
+            "candy_count": 100,
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.042,
+            "avg_spawns": 4.2,
+            "spawn_time": "07:00",
+            "multipliers": [
+                1.2,
+                1.6
+            ],
+            "weaknesses": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ],
+            "prev_evolution": [{
+                "num": "585",
+                "name": "Deerling"
+            }]
+            }, {
+            "id": 587,
+            "num": "587",
+            "name": "Emolga",
+            "img": "https://www.serebii.net/pokemon/art/587.png",
+            "type": [
+                "Electr",
+                "Flying"
+            ],
+            "height": "0.4 m",
+            "weight": "5 kg",
+            "candy": "Emolga Candy",
+            "candy_count": 25,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [1.58],
+            "weaknesses": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ]
+            }, {
+            "id": 588,
+            "num": "588",
+            "name": "Karrablast",
+            "img": "https://www.serebii.net/pokemon/art/588.png",
+            "type": [
+                "Bug"
+            ],
+            "height": "0.5 m",
+            "weight": "5.9 kg",
+            "candy": "Karrablast Candy",
+            "candy_count": 25,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [1.58],
+            "weaknesses": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ],
+                "next_evolution": [{
+                "num": "589",
+                "name": "Escavalier"
+            }]
+            }, {
+            "id": 590,
+            "num": "590",
+            "name": "Foongus",
+            "img": "https://www.serebii.net/pokemon/art/590.png",
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "height": "0.2 m",
+            "weight": "1 kg",
+            "candy": "Foongus Candy",
+            "candy_count": 25,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [1.58],
+            "weaknesses": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ],
+            "next_evolution": [{
+                "num": "591",
+                "name": "Amoongus"
+            }]
+            }, {
+            "id": 591,
+            "num": "591",
+            "name": "Amoongus",
+            "img": "https://www.serebii.net/pokemon/art/590.png",
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "height": "0.6 m",
+            "weight": "10.5 kg",
+            "candy": "Amoongus Candy",
+            "candy_count": 100,
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.042,
+            "avg_spawns": 4.2,
+            "spawn_time": "07:00",
+            "multipliers": [
+                1.2,
+                1.6
+            ],
+            "weaknesses": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ],
+            "prev_evolution": [{
+                "num": "590",
+                "name": "Foongus"
+            }]
+            },{
+            "id":592,
+            "num": "592",
+            "name": "Frillish",
+            "img": "https://www.serebii.net/pokemon/art/592.png",
+            "type": [
+                "water",
+                "ghost"
+            ],
+            "height": "1.2 m",
+            "weight": "33 kg",
+            "candy": "Frillish Candy",
+            "candy_count": 25,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [
+                1.58
+            ],
+            "weaknesses": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ],
+            "next_evolution": [{
+            "num": "593",
+            "name": "Jallicent"
+            }]   
+            },{
+            "id": 593,
+            "num": "593",
+            "name": "Jallicent",
+            "img": "https://www.serebii.net/pokemon/art/593.png",
+            "type": [
+                "water",
+                "ghost"
+            ],
+            "height": "2.2 m",
+            "weight": "135 kg",
+            "candy": "Jallicent Candy",
+            "candy_count": 100,
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.042,
+            "avg_spawns": 4.2,
+            "spawn_time": "07:00",
+            "multipliers": [
+                1.2,
+                1.6
+            ],
+            "weaknesses": [
+                "Fire",
+                "Ice",
+                "Flying",
+                "Psychic"
+            ],
+            "prev_evolution": [{
+                "num": "592",
+                "name": "Frillish"
+            }]
+            }
     ]
 }
 
