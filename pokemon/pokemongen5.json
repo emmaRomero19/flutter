@@ -2124,7 +2124,7 @@
             "num": "574",
             "name": "Gothita",
             "img": "https://www.serebii.net/pokemon/art/574.png",
-            "PSYCHC": [
+            "type": [
                 "Grass",
                 "Poison"
             ],
