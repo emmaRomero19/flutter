@@ -1370,8 +1370,7 @@
             "prev_evolution": [{
                 "num": "540",
                 "name": "Sewaddle"
-            }],
-            "next_evolution": [{
+                },{
                 "num": "541",
                 "name": "Swadloon"
             }]
