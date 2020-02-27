@@ -1408,7 +1408,7 @@
                 "name": "Scolipede"
             }]
         },{
-            "id":544,
+            "id": 544,
             "num": "544",
             "name": "Whirlipede",
             "img": "https://www.serebii.net/pokemon/art/544.png",
@@ -1430,7 +1430,7 @@
                 "Flying",
                 "Poison",
                  "Bug",
-                 "rock"
+                 "rock" 
             ],
             "prev_evolution": [{
                 "num": "543",
@@ -1440,6 +1440,157 @@
                 "num": "545",
                 "name": "Scolipede"
             }]
+        },{
+            "id": 545,
+            "num": "545",
+            "name": "Scolipede",
+            "img": "https://www.serebii.net/pokemon/art/545.png",
+            "type": [ 
+              "Bug", 
+              "poison"     
+            ],
+            "height": "2.5 m",
+            "weight": "200 kg",
+            "candy": " Scolipede Candy",
+            "candy_count": 12,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [1.58],
+            "weaknesses": [
+               "Fire",
+               "Flying",
+               "Poison",
+               "Bug",
+               "Rock" 
+            ],
+            "prev_evolution": [{
+                "num": "543",
+                "name": "Venipede"
+                },{
+                "num": "544",
+                "name": "Whirlipede"
+            }]
+        },{
+            "id": 546,
+            "num": "546",
+            "name": "Cottonee",
+            "img": "https://www.serebii.net/pokemon/art/546.png",
+            "type": [ 
+              "Grass", 
+              "Fairy"     
+            ],
+            "height": "2.5 m",
+            "weight": "200 kg",
+            "candy": " Cottonee Candy",
+            "candy_count": 12,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [1.58],
+            "weaknesses":[ 
+                "Fire",
+                "Ice",
+                "Poison",
+                "Flying",
+                "Steel"
+            ],
+            "next_evolution": [{
+              "num": "547",
+              "name": "Whimsicott"
+            }] 
+        },{
+            "id": 547,
+            "num": "547",
+            "name": "Whimsicott",
+            "img": "https://www.serebii.net/pokemon/art/547.png",
+            "type": [
+              "Grass",
+              "Fairy"
+            ],
+            "height": "0.7 m",
+            "weight": "6.6 kg",
+            "candy": "Whimsicott Candy",
+            "candy_count": 25,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [1.58],
+            "weaknesses": [
+              "Fire",
+              "Ice",
+              "Flying",
+              "Psychic"
+            ]
+        },{
+            "id": 548,
+            "num": "548",
+            "name": "Petilil",
+            "img": "https://www.serebii.net/pokemon/art/548.png",
+            "type": [
+              "Grass"
+            ],
+            "height": "0.5 m",
+            "weight": "6.6 kg",
+            "candy": "Petilil Candy",
+            "candy_count": 50,
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.30,
+            "avg_spawns": 30,
+            "spawn_time": "07:00",
+            "multipliers": [
+              1.2,
+              1.6
+            ],
+            "weaknesses": [
+              "Grass"
+            ],
+            "prev_evolution": [{
+              "num": "549",
+              "name": "Liligant"
+            }]
+        },{
+            "id": 549,
+            "num": "549",
+            "name": "Liligant",
+            "img": "https://www.serebii.net/pokemon/art/549.png",
+            "type": [
+              "Grass"
+            ],
+            "height": "1.1 m",
+            "weight": "16,3 kg",
+            "candy": "Liligant Candy",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.15,
+            "avg_spawns": 15,
+            "spawn_time": "11:30",
+            "multipliers": "null",
+            "weaknesses": [
+              "Fire"
+            ]
+        },{
+            "id": 550,
+            "num": "550",
+            "name": "Basculin",
+            "img": "https://www.serebii.net/pokemon/art/550.png",
+            "type": [
+              "Water"
+            ],
+            "height": "1 m",
+            "weight": "18 kg",
+            "candy": "Basculin Candy",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.20,
+            "avg_spawns": 20,
+            "spawn_time": "11:30",
+            "multipliers": [11],
+            "weaknesses": [
+              "Electric",
+              "Grass"
+            ]
         }
     ]
 }
