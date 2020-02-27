@@ -57,7 +57,7 @@
               "num": "497",
               "name": "Serperior"
             }]
-          },{
+        },{
             "id": 496,
             "num": "496",
             "name": "Servine",
@@ -89,41 +89,7 @@
               "num": "497",
               "name": "Serperior"
             }]
-          },{
-            "id": 497,
-            "num": "497",
-            "name": "Serperior",
-            "img": "http://www.serebii.net/pokemongo/pokemon/497.png",
-            "type": [
-              "Grass"
-            ],
-            "height": "3.3 m",
-            "weight": "63 kg",
-            "candy": "Serperior Candy",
-            "candy_count": 25,
-            "egg": "3 km",
-            "spawn_chance": 0.20,
-            "avg_spawns": 20,
-            "spawn_time": "",
-            "multipliers": [2],
-            "weaknesses": [
-              "Fire",
-              "Ice",
-              "Flying",
-              "Bug",
-              "Poison"
-            ],
-            "prev_evolution": [{
-              "num": "495",
-              "name": "Snivy"
-            }],
-            "next_evolution": [{
-        
-              "num": "496",
-              "name": "Servine"
-            }]
-          }
-
+        }
     ]
 }
 
