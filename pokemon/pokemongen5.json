@@ -151,7 +151,7 @@
               "num": "500",
               "name": "Emboar"
             }]
-          },{
+        },{
             "id": 499,
             "num": "499",
             "name": "Pignite",
@@ -178,7 +178,7 @@
             "prev_evolution": [{
               "num": "498",
               "name": "Tepig"
-          },{
+              },{
               "num": "500",
               "name": "Emboar"
             }]
