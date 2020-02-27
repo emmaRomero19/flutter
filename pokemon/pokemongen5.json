@@ -1307,6 +1307,40 @@
                 "num": "542",
                 "name": "Leavanny"
             }]
+        },{
+            "id": 541,
+            "num": "541",
+            "name": "Swadloon",
+            "img": "https://www.serebii.net/pokemon/art/541.png",
+            "type": [ 
+              "Bug",
+              "Grass"      
+            ],
+            "height": "0.5 m",
+            "weight": "7.3 kg",
+            "candy": "Swadloon Candy",
+            "candy_count": 12,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [1.58],
+            "weaknesses": [
+                "Fire",
+                "Flying",
+                "Ice",
+                "Poison",
+                "Bug",
+                "Rock" 
+            ],
+            "prev_evolution": [{
+                "num": "540",
+                "name": "Sewaddle"
+            }],
+            "next_evolution": [{
+                "num": "542",
+                "name": "Leavanny"
+            }]
         }
     ]
 }
