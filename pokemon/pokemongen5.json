@@ -735,6 +735,288 @@
               "num": "519",
               "name": "Pidove"
             }]
+        },{
+            "id": 521,
+            "num": "521",
+            "name": "Unfezant",
+            "img": "https://www.serebii.net/pokemon/art/521.png ",
+            "type": [
+              "Normal",
+              "Flying"
+            ],
+            "height": "1.2 m",
+            "weight": "29 kg",
+            "candy": "Tranquill Candy",
+            "candy_count": 12,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [1.58],
+            "weaknesses": [
+                "Ice",
+                "Rock",
+             "Electric"
+            ],
+            "prev_evolution": [{
+              "num": "519",
+              "name": "Pidove"
+            }],
+            "next_evolution": [{
+              "num": "520",
+              "name": "Tranquill"
+            }]
+        },{
+            "id": 521,
+            "num": "522",
+            "name": "Blitzle",
+            "img": "https://www.serebii.net/pokemon/art/522.png",
+            "type": [
+                "Electric"
+            ],
+            "height": "0.8m",
+            "weight": "29 kg",
+            "candy": " Blitzle Candy",
+            "candy_count": 12,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [1.58],
+            "weaknesses": [
+              "Earth"
+            ],
+            "next_evolution": [{
+              "num": "523",
+              "name": "Zebstrika"
+            }]
+        },{
+            "id": 523,
+            "num": "523",
+            "name": "Zebstrika",
+            "img": "https://www.serebii.net/pokemon/art/523.png",
+            "type": [
+              "Electric"
+            ],
+            "height": "1.6 m",
+            "weight": "79.5 kg",
+            "candy": "Zebstrika Candy",
+            "candy_count": 12,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [1.58],
+            "weaknesses": [
+              "Earth"
+            ],
+            "prev_evolution": [{
+              "num": "522",
+              "name": "Bitzle"
+            }]
+        },{
+            "id": 524,
+            "num": "524",
+            "name": " Roggenrola",
+            "img": "https://www.serebii.net/pokemon/art/524.png",
+            "type": [
+              "Rock"
+            ],
+            "height": "0.4m",
+            "weight": "18kg",
+            "candy": " Blitzle Candy",
+            "candy_count": 12,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [1.58],
+            "weaknesses": [
+              "Water",
+              "Plant",
+              "Fight",
+              "Earth",
+              "Steel"
+            ],
+            "prev_evolution": [{
+              "num": "525",
+              "name": "Boldore"
+              }],
+            "next_evolution": [{
+              "num": "526",
+              "name": "Gigalith"
+            }]
+        },{
+            "id": 525,
+            "num": "525",
+            "name": "Boldore",
+            "img": "https://www.serebii.net/pokemon/art/525.png",
+            "type": [
+              "Rock"
+            ],
+            "height": "1.6 m",
+            "weight": "79.5 kg",
+            "candy": " Boldore Candy",
+            "candy_count": 12,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [1.58],
+            "weaknesses": [
+              "Water",
+              "Plant",
+              "Fight",
+              "Earth",
+              "Steel"
+            ],
+            "prev_evolution": [{
+              "num": "524",
+              "name": "Roggenrola"
+            }],
+            "next_evolution": [{
+              "num": "526",
+              "name": "Gigalith"
+            }]
+        },{
+            "id": 526,
+            "num": "526",
+            "name": " Gigalith",
+            "img": "https://www.serebii.net/pokemon/art/526.png",
+            "type": [
+              "Rock"
+            ],
+            "height": "1.7 m",
+            "weight": "260 kg",
+            "candy": "Gigalith Candy",
+            "candy_count": 12,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [1.58],
+            "weaknesses": [
+              "Water",
+              "Plant",
+              "Fight",
+              "Earth",
+              "Steel"
+            ],
+            "prev_evolution": [{
+            "num": "524",
+            "name": "Roggenrola"
+            }],
+            "next_evolution": [{
+            "num": "525",
+            "name": "Boldore"
+            }]
+        },{
+            "id": 527,
+            "num": "527",
+            "name": "Woobat",
+            "img": "https://www.serebii.net/pokemon/art/527.png",
+            "type": [
+              "flying",
+              "Psichc"
+            ],
+            "height": "0.4m",
+            "weight": "2.1 kg",
+            "candy": "Woobat Candy",
+            "candy_count": 12,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [1.58],
+            "weaknesses": [
+              "Electric",
+              "Ice",
+              "rock",
+              "Ghost",
+              "Sinister"
+            ],
+            "next_evolution": [{
+              "num": "528",
+              "name": "Swoobat"
+            }]
+        },{
+            "id": 528,
+            "num": "528",
+            "name": " Swoobat",
+            "img": "https://www.serebii.net/pokemon/art/528.png",
+            "type": [
+              "flying",
+              "Psichc"
+            ],
+            "height": "0.9 m",
+            "weight": "10.5 kg",
+            "candy": " Swoobat Candy",
+            "candy_count": 12,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [1.58],
+            "weaknesses": [
+              "Electric",
+              "Ice",
+              "rock",
+              "Ghost",
+              "Sinister"
+            ]
+        },{
+           "id": 529,
+            "num": "529",
+            "name": "Drilbur",
+            "img": "https://www.serebii.net/pokemon/art/529.png",
+            "type": [
+            "Earth"
+            ],
+            "height": "0.3 m",
+            "weight": "8.5 kg",
+            "candy": " Drilbur Candy",
+            "candy_count": 12,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [1.58],
+            "weaknesses": [
+              "water",
+              "plant",
+                "ice"
+            ],
+              "next_evolution": [{
+              "num": "530",
+              "name": "Excadrill"
+              }]
+        },{
+            "id": 530,
+            "num": "530",
+            "name": "Excadrill",
+            "img": "https://www.serebii.net/pokemon/art/530.png",
+            "type": [
+              "Groun",
+              "Steel"
+            ],
+            "height": "0.7 m",
+            "weight": "40.4 kg",
+            "candy": "Excadrill Candy",
+            "candy_count": 12,
+            "egg": "2 km",
+            "spawn_chance": 0.69,
+            "avg_spawns": 69,
+            "spawn_time": "20:00",
+            "multipliers": [1.58],
+            "weaknesses": [
+              "water",
+              "plant",
+               "ice"
+            ],
+            "next_evolution": [{
+                "num": "529",
+                "name": "Drilbur"
+            }]
         }
     ]
 }
