@@ -14,9 +14,9 @@
         "candy": "Victini Candy",
         "candy_count": 25,
         "egg": "2 km",
-        "spawn_chance": null,
-        "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_chance": 0,
+        "avg_spawns": 0,
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Rock",
@@ -47,7 +47,7 @@
         "egg": "3 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Fire",
@@ -84,7 +84,7 @@
         "egg": "3 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Fire",
@@ -121,7 +121,7 @@
         "egg": "3 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Fire",
@@ -158,7 +158,7 @@
         "egg": "3 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Water",
@@ -194,7 +194,7 @@
         "egg": "3 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Water",
@@ -229,7 +229,7 @@
         "egg": "3 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Water",
@@ -263,7 +263,7 @@
         "egg": "3 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Electric",
@@ -297,7 +297,7 @@
         "egg": "3 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Electric",
@@ -329,7 +329,7 @@
         "egg": "3 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Grass",
@@ -361,7 +361,7 @@
         "egg": "1 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Fight"
@@ -388,7 +388,7 @@
         "egg": "1 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Fight"
@@ -415,7 +415,7 @@
         "egg": "1 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Fight"
@@ -446,7 +446,7 @@
         "egg": "1 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Fight"
@@ -477,7 +477,7 @@
         "egg": "1 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Fight"
@@ -508,7 +508,7 @@
         "egg": "1 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Fight",
@@ -537,7 +537,7 @@
         "egg": "1 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Fire",
@@ -566,7 +566,7 @@
         "egg": "3 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Fire",
@@ -597,7 +597,7 @@
         "egg": "3 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Fire",
@@ -628,7 +628,7 @@
         "egg": "3 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Water",
@@ -657,7 +657,7 @@
         "egg": "3 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Water",
@@ -686,7 +686,7 @@
         "egg": "3 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": null,
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Grass",
@@ -714,7 +714,7 @@
         "egg": "3 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Grass",
@@ -742,7 +742,7 @@
         "egg": "3 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Bug",
@@ -771,7 +771,7 @@
         "egg": "3 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Bug",
@@ -801,7 +801,7 @@
         "egg": "1 km",
         "spawn_chance": null,
         "avg_spawns": null,
-        "spawn_time": "",
+        "spawn_time": "00:00",
         "multipliers": null,
         "weaknesses": [
           "Ice",
@@ -835,7 +835,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -871,7 +871,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -908,7 +908,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -937,7 +937,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -954,7 +954,7 @@
       {
         "id": 524,
         "num": "524",
-        "name": " Roggenrola",
+        "name": "Roggenrola",
         "img": "https://www.serebii.net/pokemon/art/524.png",
         "type": [
           "Rock"
@@ -966,7 +966,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1005,7 +1005,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1044,7 +1044,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1084,7 +1084,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1118,7 +1118,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1151,7 +1151,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1183,7 +1183,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1214,7 +1214,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1244,7 +1244,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1281,7 +1281,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1318,7 +1318,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1355,7 +1355,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1392,7 +1392,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1429,7 +1429,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1466,7 +1466,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1496,7 +1496,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1528,7 +1528,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1569,7 +1569,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1610,7 +1610,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1651,7 +1651,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1692,7 +1692,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1732,7 +1732,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1772,7 +1772,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1806,7 +1806,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -1832,7 +1832,7 @@
         "egg": "Not in Eggs",
         "spawn_chance": 0.30,
         "avg_spawns": 30,
-        "spawn_time": "07:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.2,
           1.6
@@ -2486,7 +2486,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -2696,7 +2696,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -2729,7 +2729,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -2760,7 +2760,7 @@
             "egg": "2 km",
             "spawn_chance": 0.69,
             "avg_spawns": 69,
-            "spawn_time": "20:00",
+            "spawn_time": "00:00",
             "multipliers": [
               1.58
             ],
@@ -2869,7 +2869,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -2936,7 +2936,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -2962,7 +2962,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -2995,7 +2995,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -3062,7 +3062,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -3128,7 +3128,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -3155,7 +3155,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -3222,7 +3222,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -3288,7 +3288,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -3363,7 +3363,7 @@
         "egg": "5,120 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
@@ -4262,7 +4262,7 @@
         "egg": "2 km",
         "spawn_chance": 0.69,
         "avg_spawns": 69,
-        "spawn_time": "20:00",
+        "spawn_time": "00:00",
         "multipliers": [
           1.58
         ],
