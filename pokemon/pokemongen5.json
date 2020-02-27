@@ -1844,6 +1844,29 @@
             "weaknesses": [
               "Electric"
             ]
+        },{
+            "id": 562,
+            "num": "562",
+            "name": "Yamask",
+            "img": "https://www.serebii.net/pokemon/art/562.png",
+            "type": [
+              "Ghost"
+            ],
+            "height": "0.5 m",
+            "weight": "1.5 kg",
+            "candy": "Yamask Candy",
+            "egg": "Not in Eggs",
+            "spawn_chance": 0.30,
+            "avg_spawns": 30,
+            "spawn_time": "04:50",
+            "multipliers": [11],
+            "weaknesses": [
+              "Dark"
+            ],
+            "nex_evolution": [{
+              "num": "563",
+              "name": "Cofagrugus"
+            }]
         }
     ]
 }
