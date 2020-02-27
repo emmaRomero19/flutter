@@ -2592,7 +2592,7 @@
             "id": 591,
             "num": "591",
             "name": "Amoongus",
-            "img": "https://www.serebii.net/pokemon/art/590.png",
+            "img": "https://www.serebii.net/pokemon/art/591.png",
             "type": [
                 "Grass",
                 "Poison"
@@ -2680,7 +2680,366 @@
                 "num": "592",
                 "name": "Frillish"
             }]
-            }
+            },{
+                "id": 594,
+                "num": "594",
+                "name": "Alomomola",
+                "img": "https://www.serebii.net/pokemon/art/594.png",
+                "type": [
+                    "water"
+                ],
+                "height": "1.2 m",
+                "weight": "31.6 kg",
+                "candy": "Alomomola Candy",
+                "candy_count": 25,
+                "egg": "2 km",
+                "spawn_chance": 0.69,
+                "avg_spawns": 69,
+                "spawn_time": "20:00",
+                "multipliers": [
+                    1.58
+                ],
+                "weaknesses": [
+                    "Fire",
+                    "Ice",
+                    "Flying",
+                    "Psychic"
+                ]
+                },{
+                "id": 595,
+                "num": "595",
+                "name": "Joltik",
+                "img": "https://www.serebii.net/pokemon/art/595.png",
+                "type": [
+                    "Bug",
+                    "Electr"
+                ],
+                "height": "0.1 m",
+                "weight": "0.6 kg",
+                "candy": "Joltik Candy",
+                "candy_count": 25,
+                "egg": "2 km",
+                "spawn_chance": 0.69,
+                "avg_spawns": 69,
+                "spawn_time": "20:00",
+                "multipliers": [1.58],
+                "weaknesses": [
+                    "Fire",
+                    "Ice",
+                    "Flying",
+                    "Psychic"
+                ],
+                "next_evolution": [{
+                    "num": "596",
+                    "name": "Galantula"
+                }]
+                }, {
+                "id": 596,
+                "num": "596",
+                "name": "Galantula",
+                "img": "https://www.serebii.net/pokemon/art/596.png",
+                "type": [
+                    "Grass",
+                    "Poison"
+                ],
+                "height": "00.8 m",
+                "weight": "14.3 kg",
+                "candy": "Galantula Candy",
+                "candy_count": 100,
+                "egg": "Not in Eggs",
+                "spawn_chance": 0.042,
+                "avg_spawns": 4.2,
+                "spawn_time": "07:00",
+                "multipliers": [
+                    1.2,
+                    1.6
+                ],
+                "weaknesses": [
+                    "Fire",
+                    "Ice",
+                    "Flying",
+                    "Psychic"
+                ],
+                "prev_evolution": [{
+                    "num": "595",
+                    "name": "Joltik"
+                }]
+                }, {
+                "id": 597,
+                "num": "597",
+                "name": "Ferroseed",
+                "img": "https://www.serebii.net/pokemon/art/597.png",
+                "type": [
+                    "Grass",
+                    "steel"
+                ],
+                "height": "0.6 m",
+                "weight": "18.8 kg",
+                "candy": "Ferroseed Candy",
+                "candy_count": 25,
+                "egg": "2 km",
+                "spawn_chance": 0.69,
+                "avg_spawns": 69,
+                "spawn_time": "20:00",
+                "multipliers": [1.58],
+                "weaknesses": [
+                    "Fire",
+                    "Ice",
+                    "Flying",
+                    "Psychic"
+                ],
+                "next_evolution": [{
+                    "num": "598",
+                    "name": "Ferrothorn"
+                }]
+                }, {
+                "id": 598,
+                "num": "598",
+                "name": "Ferrothorn",
+                "img": "https://www.serebii.net/pokemon/art/598.png",
+                "type": [
+                    "Grass",
+                    "steel"
+                ],
+                "height": "1 m",
+                "weight": "110 kg",
+                "candy": "Ferrothorn Candy",
+                "candy_count": 100,
+                "egg": "Not in Eggs",
+                "spawn_chance": 0.042,
+                "avg_spawns": 4.2,
+                "spawn_time": "07:00",
+                "multipliers": [
+                    1.2,
+                    1.6
+                ],
+                "weaknesses": [
+                    "Fire",
+                    "Ice",
+                    "Flying",
+                    "Psychic"
+                ],
+                "prev_evolution": [{
+                    "num": "597",
+                    "name": "Ferroseed"
+                }]
+                }, {
+                "id": 599,
+                "num": "599",
+                "name": "Klink",
+                "img": "https://www.serebii.net/pokemon/art/599.png",
+                "type": [
+                    "steel"
+                ],
+                "height": "0.3 m",
+                "weight": "21 kg",
+                "candy": "Klink Candy",
+                "candy_count": 25,
+                "egg": "2 km",
+                "spawn_chance": 0.69,
+                "avg_spawns": 69,
+                "spawn_time": "20:00",
+                "multipliers": [1.58],
+                "weaknesses": [
+                    "Fire",
+                    "Ice",
+                    "Flying",
+                    "Psychic"
+                ],
+                "next_evolution": [{
+                    "num": "600",
+                    "name": "Klang"
+                }, {
+                    "num": "601",
+                    "name": "Klinklang"
+                }]
+                }, {
+                "id": 600,
+                "num": "600",
+                "name": "Klang",
+                "img": "https://www.serebii.net/pokemon/art/600.png",
+                "type": [
+                    "steel"
+                ],
+                "height": "0.6 m",
+                "weight": "51 kg",
+                "candy": "Klang Candy",
+                "candy_count": 100,
+                "egg": "Not in Eggs",
+                "spawn_chance": 0.042,
+                "avg_spawns": 4.2,
+                "spawn_time": "07:00",
+                "multipliers": [
+                    1.2,
+                    1.6
+                ],
+                "weaknesses": [
+                    "Fire",
+                    "Ice",
+                    "Flying",
+                    "Psychic"
+                ],
+                "prev_evolution": [{
+                    "num": "599",
+                    "name": "Klink"
+                }],
+                "next_evolution": [{
+                    "num": "601",
+                    "name": "Klinklang"
+                }]},{
+                "id": 601,
+                "num": "601",
+                "name": "Klinklang",
+                "img": "https://www.serebii.net/blackwhite/pokemon/601.png",
+                "type": [
+                    "Steel"
+                ],
+                "height": "0.6 m",
+                "weight": "81kg",
+                "candy": " Klinklang Candy",
+                "candy_count": 25,
+                "egg": "5,120 km",
+                "spawn_chance": 0.69,
+                "avg_spawns": 69,
+                "spawn_time": "20:00",
+                "multipliers": [1.58],
+                "weaknesses": [
+                    "Fire",
+                    "Ice",
+                    "Flying",
+                    "Psychic"
+                ],
+                "next_evolution": [{
+                    "num": "602",
+                    "name": "Tynamo"
+                }, {
+                    "num": "603",
+                    "name": "Eelektrik"
+                }]
+                }, {
+                "id": 602,
+                "num": "602",
+                "name": "Tynamo",
+                "img": "https://www.serebii.net/blackwhite/pokemon/602.png",
+                "type": [
+                    "ELECTR"
+                    
+                ],
+                "height": "0.2 m",
+                "weight": "0.3 kg",
+                "candy": "Tynamo Candy",
+                "candy_count": 100,
+                "egg": "Not in Eggs",
+                "spawn_chance": 0.042,
+                "avg_spawns": 4.2,
+                "spawn_time": "07:00",
+                "multipliers": [
+                    1.2,
+                    1.6
+                ],
+                "weaknesses": [
+                    "Fire",
+                    "Ice",
+                    "Flying",
+                    "Psychic"
+                ],
+                "prev_evolution": [{
+                    "num": "601",
+                    "name": "Klinklang"
+                }],
+                "next_evolution": [{
+                    "num": "603",
+                    "name": "Eelektrik"
+                }]
+                }, {
+                "id": 603,
+                "num": "603",
+                "name": "Eelektrik",
+                "img": "https://www.serebii.net/blackwhite/pokemon/603.png",
+                "type": [
+                    "ELECTR"
+                ],
+                "height": "1.2 m",
+                "weight": "22 kg",
+                "candy": "Eelektrik Candy",
+                "egg": "Not in Eggs",
+                "spawn_chance": 0.017,
+                "avg_spawns": 1.7,
+                "spawn_time": "11:30",
+                "multipliers": [10],
+                "weaknesses": [
+                    "Fire",
+                    "Ice",
+                    "Flying",
+                    "Psychic"
+                ],
+                "prev_evolution": [{
+                    "num": "601",
+                    "name": "Klinklang"
+                }, {
+                    "num": "602",
+                    "name": "Tynamo"
+                }]
+                }, {
+                "id": 604,
+                "num": "604",
+                "name": "Eelektross",
+                "img": "https://www.serebii.net/blackwhite/pokemon/604.png",
+                "type": [
+                    "ELECTR"
+                ],
+                "height": "2.1 m",
+                "weight": "80.5 kg",
+                "candy": "Eelektross Candy",
+                "candy_count": 25,
+                "egg": "2 km",
+                "spawn_chance": 0.253,
+                "avg_spawns": 25.3,
+                "spawn_time": "08:45",
+                "multipliers": [1.65],
+                "weaknesses": [
+                    "Water",
+                    "Ground",
+                    "Rock"
+                ],
+                "next_evolution": [{
+                    "num": "605",
+                    "name": "Elgyem"
+                }, {
+                    "num": "606",
+                    "name": "Charizard"
+                }]
+                }, {
+                "id": 605,
+                "num": "605",
+                "name": " Elgyem",
+                "img": "https://www.serebii.net/blackwhite/pokemon/605.png",
+                "type": [
+                    "PSYCHC"
+                ],
+                "height": "0.5 m",
+                "weight": "9 kg",
+                "candy": "Elgyem Candy",
+                "candy_count": 100,
+                "egg": "Not in Eggs",
+                "spawn_chance": 0.012,
+                "avg_spawns": 1.2,
+                "spawn_time": "19:00",
+                "multipliers": [1.79],
+                "weaknesses": [
+                    "Water",
+                    "Ground",
+                    "Rock"
+                ],
+                "prev_evolution": [{
+                    "num": "604",
+                    "name": "Eelektross"
+                }],
+                "next_evolution": [{
+                    "num": "606",
+                    "name": "Beheeyem"
+                }]
+                }
     ]
 }
 
