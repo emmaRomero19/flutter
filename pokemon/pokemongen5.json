@@ -1472,35 +1472,6 @@
                 "num": "544",
                 "name": "Whirlipede"
             }]
-        },{
-            "id": 546,
-            "num": "546",
-            "name": "Cottonee",
-            "img": "https://www.serebii.net/pokemon/art/546.png",
-            "type": [ 
-              "Grass", 
-              "Fairy"     
-            ],
-            "height": "2.5 m",
-            "weight": "200 kg",
-            "candy": " Cottonee Candy",
-            "candy_count": 12,
-            "egg": "2 km",
-            "spawn_chance": 0.69,
-            "avg_spawns": 69,
-            "spawn_time": "20:00",
-            "multipliers": [1.58],
-            "weaknesses":[ 
-                "Fire",
-                "Ice",
-                "Poison",
-                "Flying",
-                "Steel"
-            ],
-            "next_evolution": [{
-              "num": "547",
-              "name": "Whimsicott"
-            }] 
         }
     ]
 }
