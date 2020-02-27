@@ -346,6 +346,266 @@
               "num": "504",
               "name": "Patrat"
             }]
+        },{
+            "id": 506,
+            "num": "506",
+            "name": "Lillipup",
+            "img": "http://www.serebii.net/pokemongo/pokemon/506.png",
+            "type": [
+              "Normal"
+            ],
+            "height": "0.4 m",
+            "weight": "4.1 kg",
+            "candy": "Lillipup Candy",
+            "candy_count": 25,
+            "egg": "1 km",
+            "spawn_chance": 0.50,
+            "avg_spawns": 50,
+            "spawn_time": "10:25",
+            "multipliers": [6],
+            "weaknesses": [
+              "Fight"
+            ],
+            "next_evolution": [{
+              "num": "507",
+              "name": "Herdier"
+              },{
+              "num": "508",
+              "name": "Stoutland"
+            }]
+        },{
+            "id": 507,
+            "num": "507",
+            "name": "Herdier",
+            "img": "http://www.serebii.net/pokemongo/pokemon/507png",
+            "type": [
+              "Normal"
+            ],
+            "height": "0.9 m",
+            "weight": "14.7 kg",
+            "candy": "Herdier Candy",
+            "candy_count": 25,
+            "egg": "1 km",
+            "spawn_chance": 0.40,
+            "avg_spawns": 40,
+            "spawn_time": "10:25",
+            "multipliers": [8],
+            "weaknesses": [
+              "Fight"
+            ],
+            "next_evolution": [{
+              "num": "506",
+              "name": "Lillipup"
+            }]
+        },{
+            "id": 508,
+            "num": "508",
+            "name": "Stoutland",
+            "img": "http://www.serebii.net/pokemongo/pokemon/508.png",
+            "type": [
+              "Normal"
+            ],
+            "height": "1.2 m",
+            "weight": "61 kg",
+            "candy": "Stoutland Candy",
+            "candy_count": 25,
+            "egg": "1 km",
+            "spawn_chance": 0.50,
+            "avg_spawns": 50,
+            "spawn_time": "12:25",
+            "multipliers": [4],
+            "weaknesses": [
+              "Fight"
+            ],
+            "next_evolution": [{
+              "num": "506",
+              "name": "Lillipup"
+            }]
+        },{
+            "id": 509,
+            "num": "509",
+            "name": "Purrloin",
+            "img": "http://www.serebii.net/pokemongo/pokemon/509.png",
+            "type": [
+              "Dark"
+            ],
+            "height": "0.4 m",
+            "weight": "10.1 kg",
+            "candy": "Purrloin Candy",
+            "candy_count": 25,
+            "egg": "1 km",
+            "spawn_chance": 0.30,
+            "avg_spawns": 30,
+            "spawn_time": "10:25",
+            "multipliers": [11],
+            "weaknesses": [
+              "Fight",
+              "Bug",
+              "Fairy"
+            ],
+            "next_evolution": [{
+              "num": "510",
+              "name": "Liepard"
+            }]
+        },{
+            "id": 510,
+            "num": "510",
+            "name": "Liepard",
+            "img": "http://www.serebii.net/pokemongo/pokemon/510.png",
+            "type": [
+              "Dark"
+            ],
+            "height": "1.1 m",
+            "weight": "37.5 kg",
+            "candy": "Liepard Candy",
+            "candy_count": 25,
+            "egg": "1 km",
+            "spawn_chance": 0.20,
+            "avg_spawns": 20,
+            "spawn_time": "10:25",
+            "multipliers": [9],
+            "weaknesses": [
+              "Fire",
+              "Ice",
+              "Fairy"
+            ],
+            "next_evolution": [{
+              "num": "509",
+              "name": "Purrloin"
+            }]
+        },{
+            "id": 511,
+            "num": "511",
+            "name": "Pansage",
+            "img": "http://www.serebii.net/pokemongo/pokemon/511.png",
+            "type": [
+              "Grass"
+            ],
+            "height": "0.6 m",
+            "weight": "10.5 kg",
+            "candy": "Pansage Candy",
+            "candy_count": 50,
+            "egg": "3 km",
+            "spawn_chance": 0.30,
+            "avg_spawns": 30,
+            "spawn_time": "10:25",
+            "multipliers": [8],
+            "weaknesses": [
+              "Fire",
+              "Ice",
+              "Poison",
+              "Flying",
+              "Bug"
+            ],
+            "next_evolution": [{
+              "num": "512",
+              "name": "Simisage"
+            }]
+        },{
+            "id": 512,
+            "num": "512",
+            "name": "Simisage",
+            "img": "http://www.serebii.net/pokemongo/pokemon/512.png",
+            "type": [
+              "Grass"
+            ],
+            "height": "1.1 m",
+            "weight": "30.5 kg",
+            "candy": "Simisage Candy",
+            "candy_count": 50,
+            "egg": "3 km",
+            "spawn_chance": 0.19,
+            "avg_spawns": 20,
+            "spawn_time": "11:25",
+            "multipliers": [4],
+            "weaknesses": [
+              "Fire",
+              "Ice",
+              "Poison",
+              "Flying",
+              "Bug"
+            ],
+            "next_evolution": [{
+              "num": "511",
+              "name": "Pansage"
+            }]
+        },{
+            "id": 513,
+            "num": "513",
+            "name": "Pansear",
+            "img": "http://www.serebii.net/pokemongo/pokemon/513.png",
+            "type": [
+              "Fire"
+            ],
+            "height": "0.6 m",
+            "weight": "11 kg",
+            "candy": "Pansear Candy",
+            "candy_count": 50,
+            "egg": "3 km",
+            "spawn_chance": 0.30,
+            "avg_spawns": 30,
+            "spawn_time": "12:25",
+            "multipliers": [5],
+            "weaknesses": [
+              "Water",
+              "Ground",
+              "Rock"
+            ],
+            "next_evolution": [{
+              "num": "514",
+              "name": "Simisear"
+            }]
+        },{
+            "id": 514,
+            "num": "514",
+            "name": "Simisear",
+            "img": "http://www.serebii.net/pokemongo/pokemon/514.png",
+            "type": [
+              "Fire"
+            ],
+            "height": "1 m",
+            "weight": "28 kg",
+            "candy": "Simisear Candy",
+            "candy_count": 50,
+            "egg": "3 km",
+            "spawn_chance": 0.30,
+            "avg_spawns": 30,
+            "spawn_time": "12:25",
+            "multipliers": [4],
+            "weaknesses": [
+              "Water",
+              "Ground",
+              "Rock"
+            ],
+            "next_evolution": [{
+              "num": "513",
+              "name": "Pansear"
+            }]
+        },{
+            "id": 515,
+            "num": "515",
+            "name": "Panpour",
+            "img": "http://www.serebii.net/pokemongo/pokemon/515.png",
+            "type": [
+              "Water"
+            ],
+            "height": "0.6 m",
+            "weight": "13.5 kg",
+            "candy": "Panpour Candy",
+            "candy_count": 50,
+            "egg": "3 km",
+            "spawn_chance": 0.30,
+            "avg_spawns": 30,
+            "spawn_time": "10:25",
+            "multipliers": [9],
+            "weaknesses": [
+              "Grass",
+              "Electric"
+            ],
+            "next_evolution": [{
+              "num": "516",
+              "name": "Simipour"
+            }]
         }
     ]
 }
