@@ -1,0 +1,61 @@
+{
+    "plants":[
+        {
+            "clase": "0 Manzanilla",
+            "Beneficios":[
+                "Diminuir la hiperactividad",
+                "Calmante y relajante",
+                "Alivia el estrés",
+                "Auxilia en el tratamiento de la ansiedad",
+                "Ayuda a aliviar los mareos"
+            ],
+            "Ingredientes":[
+                "2 cucharaditas de flores secas de manzanilla",
+                "1 taza de agua"
+            ],
+            "Preparacion": "En 250 ml de agua hirviendo agregar las cucharaditas de té. Tapar y dejar reposar alrededor de 10 minutos y colar antes de beber. Debe ser tomado 3 veces por día, y en caso que sea necesario puede ser endulzado con una cucharadita de miel."
+        },
+        {
+            "clase": "1 Hierbabuena",
+            "Beneficios":[
+                "Estimularía la digestión",
+                "Calmante para los dolores de cabeza"
+            ],
+            "Ingredientes":[
+                "10 hojas frescas de hierbabuena.",
+                "1 litro de agua."
+
+            ],
+            "Preparacion": "En primer lugar, lava bien las hojas de hierbabuena. Luego, en una olla, vierte el litro de agua y déjala al fuego para que hierva. Justo antes que rompa el hervor, incorpora las hojas frescas de hierbabuena y déjalas durante dos minutos. Pasado este tiempo, apaga el fuego, tapa la infusión y déjala en reposo 5 o 10 minutos. Para terminar, cuela para separar las hojas del líquido. Puedes almacenarla en el refrigerador o agregarle cubos de hielo para tomarla fría."
+        },
+        {
+            "clase": "2 Romero",
+            "Beneficios":[
+                "Mejorar la digestión", 
+                "Aliviar el dolor de cabeza",
+                "Combatir el cansancio"
+            ],
+            "Ingredientes":[
+                "5g de hojas secas de romero",
+                "150 ml de agua hirviendo."
+            ],
+            "Preparacion": "Agregar el romero en el agua hirviendo, dejar reposar durante 3 a 5 minutos, debidamente tapado. Colar, beber tibio y sin endulzar. Este té puede ingerirse 3 a 4 veces por día. Asimismo, este té también puede ser utilizado para lavarse el cabello."
+        },
+        {
+            "clase": "3 Eucalipto",
+            "Beneficios":[
+                "Expectorante: Facilita la expulsión de la mucosidad en casos de resfriados y sinusitis y alivia la tos seca.",
+                "Antiinflamatorio: Reduce la inflamación y el dolor.",
+                "Antiviral y antibacteriano: Fortalece el sistema inmunitario para protegernos de las infecciones y también es efectivo para tratar el acné, los piojos, etc.",
+                "Vermífugo: Previene y elimina los parásitos intestinales.",
+                "Cicatrizante"
+            ],
+            "Ingredientes":[
+                "2 cucharadas de hojas de eucalipto (8 g)",
+                "3 cucharadas de otras plantas medicinales: tomillo, romero, pino, orégano o manzanilla (12 g)",
+                "5 vasos de agua (1 l)"
+            ],
+            "Preparacion": "Para empezar, poner agua a hervir y añadir las plantas medicinales. Si usamos orégano y manzanilla, estas plantas las añadiremos cuando apaguemos el fuego. A continuación, dejar cocer durante 10 minutos y apagar el fuego. Después, situarnos encima del recipiente, a una distancia de unos 20 o 30 centímetros, con precaución de no quemarnos. Además, podemos cubrirnos con una toalla si lo deseamos. Por último, respirar durante 5 minutos."
+        }
+    ]
+}
